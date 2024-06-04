@@ -1,4 +1,4 @@
-from test import Node, Graph
+from graph import Node, Graph
 import asyncio
 
 # 示例使用
