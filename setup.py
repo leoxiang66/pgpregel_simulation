@@ -7,7 +7,7 @@ requirements = ["numpy"]
 
 setup(
     name="graph",
-    version="0.1.0",
+    version="0.2.0",
     author="Tao Xiang",
     author_email="xiang.tao@outlook.de",
     description="A package for pgpregel simulation",
